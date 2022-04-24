@@ -1,0 +1,20 @@
+{
+  "name": "biblijs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JrAdilson/biblijs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JrAdilson/biblijs/issues"
+  },
+  "homepage": "https://github.com/JrAdilson/biblijs#readme",
+  "keywords": [],
+  "description": ""
+}
